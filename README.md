@@ -11,7 +11,7 @@
 </p>
 
 <p align='center'>
-<img src="https://steamuserimages-a.akamaihd.net/ugc/156903851085964994/8419FCE240BD49DC66CD463271A200738AFBF266/"/>
+<img src="https://animesher.com/orig/0/93/930/9305/animesher.com_naruto-uzumaki-funny-naruto-angry-naruto-930553.gif"/>
 </p>
 
 <p align='center'>
