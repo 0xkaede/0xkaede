@@ -9,11 +9,11 @@
 </p>
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/0xkaede%230001%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>    
+  <img src="https://img.shields.io/badge/%220xkaede%230001%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>    
 </p>
 
 <p align='center'>
-<img src="https://animesher.com/orig/0/93/930/9305/animesher.com_naruto-uzumaki-funny-naruto-angry-naruto-930553.gif"/>
+<img src="https://c.tenor.com/tVX6A66i0y8AAAAd/baryon-mode-naruto.gif"/>
 </p>
 
 <p align='center'>
