@@ -13,7 +13,7 @@
 </p>
 
 <p align='center'>
-<img src="https://th.bing.com/th/id/OIP.63cEUCLMmoD_JQXmW5kPrgHaEK?pid=ImgDet&rs=1"/>
+<img src="https://cdn.discordapp.com/attachments/978043490300731394/1067947114388262942/tenor.gif"/>
 </p>
 
 <p align='center'>
