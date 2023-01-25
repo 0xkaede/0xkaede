@@ -13,7 +13,7 @@
 </p>
 
 <p align='center'>
-<img src="https://th.bing.com/th/id/R.fd349adf2bbaa83d0548505962462336?rik=UFEXdPx7l6H3kQ&pid=ImgRaw&r=0"/>
+<img src="https://th.bing.com/th/id/OIP.63cEUCLMmoD_JQXmW5kPrgHaEK?pid=ImgDet&rs=1"/>
 </p>
 
 <p align='center'>
