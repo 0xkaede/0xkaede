@@ -12,9 +12,11 @@
   <img src="https://img.shields.io/badge/%220xkaede%230001%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>    
 </p>
 
-<p align='center'>
+<div align="center" width="50">
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/527416399141011474)](https://discord.com/users/527416399141011474)
-</p>
+
+<div align="center" width="50">
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xkaede&layout=compact&theme=radical" />
