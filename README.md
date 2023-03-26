@@ -7,7 +7,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/527416399141011474)](https://discord.com/users/527416399141011474)
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=namd07sd1cf7epawz08o30i1v&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=namd07sd1cf7epawz08o30i1v&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=namd07sd1cf7epawz08o30i1v&redirect=true)
 
 <div align="center" width="50">
 
