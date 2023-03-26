@@ -13,7 +13,7 @@
 </p>
 
 <p align='center'>
-<img src="https://cdn.discordapp.com/attachments/978043490300731394/1071512479605207090/654485e4f41dc07a3ee9a65bd28c97a4.gif"/>
+[![Discord Presence](https://lanyard.cnrad.dev/api/527416399141011474)](https://discord.com/users/527416399141011474)
 </p>
 
 <p align='center'>
