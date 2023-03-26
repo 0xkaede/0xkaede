@@ -8,10 +8,6 @@
   
 </p>
 
-<p align='center'>
-  <img src="https://img.shields.io/badge/%220xkaede%230001%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>    
-</p>
-
 <div align="center" width="50">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/527416399141011474)](https://discord.com/users/527416399141011474)
