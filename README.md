@@ -5,7 +5,7 @@
 
 <div align="center" width="50">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/527416399141011474)](https://discord.com/users/527416399141011474)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1065814952457285683)](https://discord.com/users/1065814952457285683)
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=namd07sd1cf7epawz08o30i1v&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=namd07sd1cf7epawz08o30i1v&redirect=true)
 
